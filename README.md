@@ -1,4 +1,8 @@
-## Hi there 👋
+-----
+<div>
+<img align="center" alt="Header" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/github-header-image.png?raw=true"/>
+</div>
+-----
 
 <!--
 **gabriel6988/gabriel6988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
