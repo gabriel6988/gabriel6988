@@ -1,20 +1,31 @@
------
+<!-- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! -->
 <div>
-<img align="center" alt="Header" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/github-header-image.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/github-header-image (1).png?raw=true"/>
 </div>
------
 
-<!--
-**gabriel6988/gabriel6988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/gabriel6988" target="_blank"><img src="https://github.com/gabriel6988/gabriel6988/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:gabrielfgalindo@gmail.com" target="_blank"><img src="https://github.com/gabriel6988/gabriel6988/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531993888212" target="_blank"><img src="https://github.com/gabriel6988/gabriel6988/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/gabrielfgalindo/" target="_blank"><img src="https://github.com/gabriel6988/gabriel6988/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/gabrielfgalindo/" target="_blank"><img src="https://github.com/gabriel6988/gabriel6988/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 22 anos, moro em BH e sou Dev. Atualmente sou <code>estudante</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou procurando uma vaga de estágio para aprimorar as minhas habilidades.
+</div>
