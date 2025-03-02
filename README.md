@@ -29,3 +29,8 @@
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 22 anos, moro em BH e sou Dev. Atualmente sou <code>estudante</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou procurando uma vaga de estágio para aprimorar as minhas habilidades.
 </div>
+
+<img height="20" alt="GIF" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+
+<div align="justify">
+</div>
