@@ -89,6 +89,8 @@
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/vsc.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://unity.com/pt" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/unity.svg?raw=true"/></a></code>
+&nbsp;
 </div>
 
 -----
