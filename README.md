@@ -91,6 +91,12 @@
 &nbsp;
 <code><a href="https://unity.com/pt" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/unity.svg?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://www.drawio.com" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/draw.io.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://azure.microsoft.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/azure.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://ubuntu.com/download" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/ubuntu.png?raw=true"/></a></code>
+&nbsp;
 </div>
 
 -----
