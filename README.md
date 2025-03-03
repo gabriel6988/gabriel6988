@@ -83,6 +83,8 @@
 &nbsp;
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/pycharm.png?raw=true"/></a></code>
+&nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/vsc.png?raw=true"/></a></code>
