@@ -99,7 +99,7 @@
 &nbsp;
 <code><a href="https://www.overleaf.com" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/overleaf.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.tinkercad.com" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/tinkercad.png?raw=true"/></a></code>
+<code><a href="https://www.tinkercad.com" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/tinkercad (1).png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.php.net" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/php.png?raw=true"/></a></code>
 &nbsp;
