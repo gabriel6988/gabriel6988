@@ -133,14 +133,14 @@
 <table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/gabriel6988" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@gabriel6988">WakaTime</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr>
 <tr>
 <td>
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/gabriel6988/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriel6988&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
@@ -178,5 +178,6 @@
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+</div>
 </div>
 </div>
