@@ -117,9 +117,6 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabriel6988&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-</td>
-<td>
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel6988&theme=dark&locale=pt-br&langs_count=7"/>
 </td>
 <td>
@@ -133,7 +130,10 @@
 <table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/gabriel6988" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@gabriel6988">WakaTime</a></td>
+ <td>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api 
+  username=gabriel6988&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+  </td>
 </tr>
 <tr>
 <td>
