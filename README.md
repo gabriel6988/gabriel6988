@@ -108,32 +108,40 @@
 -----
 
 <div>
-<img height="20" alt="GIF" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel6988&theme=dark&locale=pt-br&langs_count=7"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel6988&layout=pie&theme=dark&locale=pt-br"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-<table>
-<tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/gabriel6988" target="_blank">GitHub Wrapped</a></td>
+ <img height="20" alt="GIF" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+ 
+ <div align="center">
+ <table>
+ <tr>
+  <td align="center" colspan="3"></td>
+ </tr> 
+ <tr>
  <td>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api 
-  username=gabriel6988&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-  </td>
+ <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabriel6988&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+ </td>
+ <td>
+ <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel6988&theme=dark&locale=pt-br&langs_count=7"/>
+ </td>
+ <td>
+ <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel6988&layout=pie&theme=dark&locale=pt-br"/>
+ </td>
+ </tr>
+ <tr>
+  <td align="center" colspan="3"></td>
+ </tr> 
+ </table>
+ <table>
+ <tr>
+  <td align="center">:octocat: <a href="https://www.githubwrapped.io/gabriel6988" target="_blank">GitHub Wrapped</a></td>
+  <td align="center">:watch: <a href="https://wakatime.com/@gabriel6988">WakaTime</a></td>
+ </tr>
+ <tr>
+ <td>
+ <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/gabriel6988/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+ </td>
+ <td>
+ <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriel6988&theme=dark&layout=compact"/>
+ </td>
 </tr>
 <tr>
 <td>
