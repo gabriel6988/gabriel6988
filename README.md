@@ -144,11 +144,6 @@
  </td>
 </tr>
 <tr>
-<td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/gabriel6988/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>
-</tr>
-<tr>
  <td align="center"></td>
  <td align="center"></td>
 </tr> 
