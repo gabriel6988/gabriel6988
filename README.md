@@ -139,9 +139,6 @@
 <td>
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/gabriel6988/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
-<td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriel6988&theme=dark&layout=compact"/>
-</td>
 </tr>
 <tr>
  <td align="center"></td>
