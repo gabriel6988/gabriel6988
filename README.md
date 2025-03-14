@@ -181,3 +181,13 @@
 </div>
 </div>
 </div>
+
+-----
+
+<div>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/footer-gray.gif?raw=true"/>
+</div>
+
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
+
+<!-- Obrigado pela visita! -->
