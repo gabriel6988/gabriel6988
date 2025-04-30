@@ -103,6 +103,8 @@
 &nbsp;
 <code><a href="https://www.php.net" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/php.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi/downloads" target="_blank"><img width="32" height="32" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/power BI.png?raw=true"/></a></code>
+&nbsp;
 </div>
 
 -----
