@@ -40,14 +40,8 @@
 -----
 
 <img height="20" alt="GIF" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
-
+Desde pequeno sempre tive um grande interesse por tecnologia e ciência. Minha linguagem de programação de preferência é Java, mas também possuo experiencia com Python e C. Atualmente estou fazendo cursos de cibersegurança na <a href="https://www.coursera.org" target="_blank">Coursera</a> e pretendo me especializar na área.
 <div align="justify">
-</div>
-
------
-
-<div>
-<img height="20" alt="GIF" src="https://github.com/gabriel6988/gabriel6988/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 </div>
 
 -----
